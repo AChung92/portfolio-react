@@ -8,6 +8,9 @@ This is a portfolio of my work created using the react-app.
 
 ## Technologies
 * React
+* Bootstrap
+* Node.js
+
 
 
 ## Deployed App
