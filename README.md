@@ -16,5 +16,5 @@ https://achung92.github.io/portfolio-react/
 
 ## Screenshots
 
-![screenshot](assets/img/1.png))
-![screenshot](assets/img/2.png))
+![screenshot](src/assets/img/1.PNG))
+![screenshot](src/assets/img/2.PNG))
