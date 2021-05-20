@@ -47,10 +47,10 @@ function Portfolio() {
             repo: "https://github.com/AChung92/weather-dashboard.git"
         },
         {
-            name: 'food-festival',
-            description: 'JS/Node/PWA',
-            link: "https://achung92.github.io/food-festival/",
-            repo: "https://github.com/AChung92/food-festival.git"
+            name: 'woof',
+            description: 'JS/React/Graphql',
+            link: "https://woof-app-2021.herokuapp.com",
+            repo: "https://github.com/woof-board/woof.git"
         },
         {
             name: 'code-quiz',
