@@ -49,7 +49,7 @@ function Portfolio() {
         {
             name: 'woof',
             description: 'JS/React/Graphql',
-            link: "https://woof-app-2021.herokuapp.com",
+            link: "https://woof-2021.herokuapp.com/",
             repo: "https://github.com/woof-board/woof.git"
         },
         {
